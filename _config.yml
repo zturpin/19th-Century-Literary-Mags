@@ -5,27 +5,27 @@
 # Site settings
 
 # title of site appears in banner
-title: GH-Pages Collection
+title: 19th-Century Literary Magazines à la Zachary
 # tagline appears in banner
-tagline: a theme for building simple digital exhibits
+tagline: an amuse-bouche for your brain
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A more complete description that will appear in meta tags and on the index page as a teaser."
+description: "A micro collection of 19th-century literary magazine covers."
 # keywords appear in meta tags
-keywords: "university of idaho, digital collections, digital humanities"
+keywords: "literary magazine, 19th century, putnam's monthly, outlook, digest"
 # creator of the digital collection, to appear in meta tags
-author: evanwill
+author: zturpin
 # creator contact email for meta tags
-email: ewilliamson@uidaho.edu
+email: zturpin@uidaho.edu
 # collection project date, when did you publish this
-collection-date: "2018"
+collection-date: "May 14, 2018"
 
 # url is your gh-pages base, username.github.io
-url: https://uidaholib.github.io
+url: https://zturpin.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /pages-collection-template
+baseurl: /19th-Century-Literary-Mags
 # repository is the github repository's full url
-repository: https://github.com/uidaholib/pages-collection-template
+repository: https://github.com/zturpin/19th-Century-Literary-Mags
 
 # google services [optional!]
 # leave these blank or comment out to NOT include google code
