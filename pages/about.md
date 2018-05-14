@@ -4,9 +4,11 @@ layout: page
 permalink: /about/
 ---
 
-# About {{ site.title }}
+# About this site
 
-Digital collection site built via metadata and Jekyll.
+*19th-Century Literary Magazines à la Zachary* is a site dedicated to New York literary magazines of the mid- and late 19th century. Content includes cover images and content information for *Putnam's Monthly* magazine (May 1857) and *The Outlook* magazine (July 1897). 
+
+Digital collection site built via metadata and Jekyll, and published live as of May 14, 2018. 
 
 ### Technical
 
